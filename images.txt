@@ -1,1 +1,1 @@
-python
+uifd/ui-for-docker
